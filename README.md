@@ -1,4 +1,3 @@
-## Siqbal21
 # 👋 Hi, I’m Shaan  
 
 🎓 Computer Science & Business Administration (Finance) @ Northeastern University  
