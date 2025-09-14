@@ -14,7 +14,7 @@
 
 ## 🛠️ Languages & Technologies  
 **Languages:** Java · Python · SQL · C++  
-**Tools:** VS Code · Jupyter · MySQL · Git/GitHub · Excel · Arduino IDE  
+**Tools:** VS Code · Jupyter · MySQL · Git/GitHub · Excel
 **Libraries:** Pandas · NumPy · Matplotlib · scikit-learn  
 
 ---
