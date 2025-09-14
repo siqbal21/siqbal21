@@ -33,7 +33,7 @@
 
 ## 📫 Let’s Connect  
 - 💼 [LinkedIn](www.linkedin.com/in/shaaniqbal21)  
-- ✉️ Reach me at: [*siqbal2024@gmail.com*]
+- ✉️ Reach me at: *siqbal2024@gmail.com*
 
 ---
 
