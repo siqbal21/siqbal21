@@ -26,14 +26,14 @@
 - 🎮 **Table Tennis Scoreboard**  
   Engineered and programmed an Arduino-based scoreboard with button controls and a custom CAD-designed frame.
 
-- 📈 **Financial Analysis Toolkit**  
+- 📈 [**Financial Analysis Toolkit**](https://github.com/siqbal21/Financial-Reporting-Analysis.git)
   Compared Coca-Cola & PepsiCo financial ratios (profitability, liquidity, solvency, turnover, market ratios) using 10-K filings and Excel modeling.  
 
 ---
 
 ## 📫 Let’s Connect  
 - 💼 [LinkedIn](www.linkedin.com/in/shaaniqbal21)  
-- ✉️ Reach me at: *siqbal2024@gmail.com*  
+- ✉️ Reach me at: [*siqbal2024@gmail.com*]
 
 ---
 
