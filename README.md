@@ -20,7 +20,7 @@
 ---
 
 ## 📂 Featured Projects  
-- 🏒 **Expected Goals Model (xG)**  
+- 🏒 [**NHL Shot Probability Machine Learning Model:**](https://github.com/siqbal21/NHL-Shot-Probability-Machine-Learning-Model.git)  
   Built a logistic regression model in Python to analyze NHL shot data and predict goal probabilities.  
 
 - 🎮 **Table Tennis Scoreboard**  
