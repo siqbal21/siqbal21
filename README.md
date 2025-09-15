@@ -7,8 +7,8 @@
 
 ## 🚀 About Me  
 - ⚡ Exploring the intersection of **finance & computer science**  
-- 📊 Love building projects around **sports analytics** (expected goals in hockey/soccer, predictive modeling, etc.)  
-- 📚 Strong foundation in **Java, Python, SQL**, and hands-on with **Pandas, NumPy, Matplotlib**  
+- 📊 Love building projects around **sports analytics** 
+- 📚 Strong foundation in **Java, Python, SQL**, and hands-on with **Pandas, NumPy, and Matplotlib**  
 
 ---
 
