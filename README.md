@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Shaan  
 
 🎓 Computer Science & Business Administration (Finance) @ Northeastern University  
-💻 Passionate about **AI, Finance, and Data Analytics**  
+💻 Passionate about **Machine Learning, Finance, and Data Analytics**  
 
 ---
 
