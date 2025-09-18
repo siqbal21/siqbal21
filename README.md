@@ -23,10 +23,10 @@
 - 🏒 [**NHL Shot Probability Machine Learning Model:**](https://github.com/siqbal21/NHL-Shot-Probability-Machine-Learning-Model.git)  
   Built a logistic regression model in Python to analyze NHL shot data and predict goal probabilities.  
 
-- 📈 [**Financial Reporting Analysis**](https://github.com/siqbal21/Financial-Reporting-Analysis.git)
+- 📈 [**Financial Reporting Analysis**](https://github.com/siqbal21/Financial-Reporting-Analysis.git)  
   Compared Coca-Cola & PepsiCo financial ratios (profitability, liquidity, solvency, turnover, market ratios) using 10-K filings and Excel modeling.
 
-- 🎮 [**Table Tennis Scoreboard**](https://github.com/siqbal21/Table-Tennis-Scoreboard.git)
+- 🎮 [**Table Tennis Scoreboard**](https://github.com/siqbal21/Table-Tennis-Scoreboard.git)  
   Engineered and programmed an Arduino-based scoreboard with button controls and a custom CAD-designed frame.  
 
 ---
