@@ -13,9 +13,9 @@
 ---
 
 ## 🛠️ Languages & Technologies  
-**Languages:** Java · Python · SQL · C++  
-**Tools:** VS Code · Jupyter · MySQL · Git/GitHub · Excel  
-**Libraries:** Pandas · NumPy · Matplotlib · scikit-learn  
+**Languages:** Python · Java · SQL  
+**Tools:** PyCharm · IntelliJ · VSCode · Git · Jupyter Notebooks · Eclipse · Fusion360  
+**Libraries:** Pandas · NumPy · Matplotlib · Scikit-learn · JUnit  
 
 ---
 
