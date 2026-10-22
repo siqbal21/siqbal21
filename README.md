@@ -45,7 +45,7 @@
 ---
 
 ## 📫 Let’s Connect  
-- 💼 [LinkedIn](www.linkedin.com/in/shaaniqbal21)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/shaaniqbal21)
 - ✉️ Reach me at: *siqbal2024@gmail.com* or *iqbal.sha@northeastern.edu*
 
 ---
